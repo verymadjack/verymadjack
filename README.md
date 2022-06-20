@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @verymadjack
 - 👀 I’m interested in: money
 - 🌱 I’m currently learning: PHP
-- 💞️ I’m looking to collaborate on: bank robbery
+- 💞️ I’m looking to collaborate on: 
 - 📫 How to reach me: via pigeon letter
 
 <!---
