@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @verymadjack
 - 👀 I’m interested in: money
-- 🌱 I’m currently learning: PHP
+- 🌱 I’m currently learning: PHP/Laravel/Symfony
 - 💞️ I’m looking to collaborate on: 
 - 📫 How to reach me: verymadjacek@gmail.com
 
